@@ -15,6 +15,6 @@ Class {
 
 { #category : 'as yet unclassified' }
 Mycelium >> storeToRepository [
-
+	LibC system: 'cd ' , ( IceRepository repositoryNamed: #mycelium ) location fullName, ' && git add data/* && git commit -m "update data storage" && git push'.
 	
 ]
