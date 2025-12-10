@@ -1,0 +1,2993 @@
+[
+	{
+		"classes" : [
+			{
+				"class" : "LLMAPISpecChat",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpecChat"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpecChat"
+							}
+						],
+						"name" : "initializePresenters",
+						"collected" : {
+							"class" : "LLMAPISpecChat",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpecChat"
+							],
+							"method" : "initializePresenters",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpecChat"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpecChat"
+							}
+						],
+						"name" : "askLLM",
+						"collected" : {
+							"class" : "LLMAPISpecChat",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpecChat"
+							],
+							"method" : "askLLM",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpBoxLayout"
+							}
+						],
+						"name" : "defaultLayout",
+						"collected" : {
+							"class" : "LLMAPISpecChat",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpBoxLayout"
+							],
+							"method" : "defaultLayout",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPISpec",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpec"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpec"
+							}
+						],
+						"name" : "notebook:",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpec"
+							],
+							"method" : "notebook:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpec"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpec"
+							}
+						],
+						"name" : "toolbar:",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpec"
+							],
+							"method" : "toolbar:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpec"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpec"
+							}
+						],
+						"name" : "initializePresenters",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpec"
+							],
+							"method" : "initializePresenters",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "String"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "String"
+							}
+						],
+						"name" : "title",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"String"
+							],
+							"method" : "title",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpec"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpec"
+							}
+						],
+						"name" : "addNewChat",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpec"
+							],
+							"method" : "addNewChat",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpPaginatorPresenter"
+							}
+						],
+						"name" : "notebook",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpPaginatorPresenter"
+							],
+							"method" : "notebook",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Number"
+							}
+						],
+						"name" : "initialExtent",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Number"
+							],
+							"method" : "initialExtent",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpBoxLayout"
+							}
+						],
+						"name" : "defaultLayout",
+						"collected" : {
+							"class" : "LLMAPISpec",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpBoxLayout"
+							],
+							"method" : "defaultLayout",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPISpecChatHistory",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpecChatHistory"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpecChatHistory"
+							}
+						],
+						"name" : "addMessage:",
+						"collected" : {
+							"class" : "LLMAPISpecChatHistory",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpecChatHistory"
+							],
+							"method" : "addMessage:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpecChatHistory"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpecChatHistory"
+							}
+						],
+						"name" : "initializePresenters",
+						"collected" : {
+							"class" : "LLMAPISpecChatHistory",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpecChatHistory"
+							],
+							"method" : "initializePresenters",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpScrollableLayout"
+							}
+						],
+						"name" : "defaultLayout",
+						"collected" : {
+							"class" : "LLMAPISpecChatHistory",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpScrollableLayout"
+							],
+							"method" : "defaultLayout",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPISpecChatBubble",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPISpecChatBubble"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPISpecChatBubble"
+							}
+						],
+						"name" : "initializePresenters",
+						"collected" : {
+							"class" : "LLMAPISpecChatBubble",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPISpecChatBubble"
+							],
+							"method" : "initializePresenters",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpBoxLayout"
+							}
+						],
+						"name" : "defaultLayout",
+						"collected" : {
+							"class" : "LLMAPISpecChatBubble",
+							"package" : "LLM-Spec",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpBoxLayout"
+							],
+							"method" : "defaultLayout",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			}
+		],
+		"package" : "LLM-Spec"
+	},
+	{
+		"classes" : [
+			{
+				"class" : "LLMAPIChatObjectToolCountClasses",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectToolCountClasses"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectToolCountClasses"
+							}
+						],
+						"name" : "initialize",
+						"collected" : {
+							"class" : "LLMAPIChatObjectToolCountClasses",
+							"package" : "LLM-API-Example",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectToolCountClasses"
+							],
+							"method" : "initialize",
+							"confidenceScore" : 1.0
+						}
+					}
+				]
+			}
+		],
+		"package" : "LLM-API-Example"
+	},
+	{
+		"classes" : [
+			{
+				"class" : "BaselineOfLLMAPI",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "BaselineOfLLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "BaselineOfLLMAPI"
+							}
+						],
+						"name" : "defineDependencies:",
+						"collected" : {
+							"class" : "BaselineOfLLMAPI",
+							"package" : "BaselineOfLLMAPI",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"BaselineOfLLMAPI"
+							],
+							"method" : "defineDependencies:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "BaselineOfLLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "BaselineOfLLMAPI"
+							}
+						],
+						"name" : "definePackages:",
+						"collected" : {
+							"class" : "BaselineOfLLMAPI",
+							"package" : "BaselineOfLLMAPI",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"BaselineOfLLMAPI"
+							],
+							"method" : "definePackages:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "BaselineOfLLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "BaselineOfLLMAPI"
+							}
+						],
+						"name" : "baseline:",
+						"collected" : {
+							"class" : "BaselineOfLLMAPI",
+							"package" : "BaselineOfLLMAPI",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"BaselineOfLLMAPI"
+							],
+							"method" : "baseline:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "BaselineOfLLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "BaselineOfLLMAPI"
+							}
+						],
+						"name" : "defineGroups:",
+						"collected" : {
+							"class" : "BaselineOfLLMAPI",
+							"package" : "BaselineOfLLMAPI",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"BaselineOfLLMAPI"
+							],
+							"method" : "defineGroups:",
+							"confidenceScore" : 1.0
+						}
+					}
+				]
+			}
+		],
+		"package" : "BaselineOfLLMAPI"
+	},
+	{
+		"classes" : [
+			{
+				"class" : "LLMAPIFimTest",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimTest"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimTest"
+							}
+						],
+						"name" : "testCheckModelExist",
+						"collected" : {
+							"class" : "LLMAPIFimTest",
+							"package" : "LLM-API-Tests",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimTest"
+							],
+							"method" : "testCheckModelExist",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimTest"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimTest"
+							}
+						],
+						"name" : "testCorrectInstance",
+						"collected" : {
+							"class" : "LLMAPIFimTest",
+							"package" : "LLM-API-Tests",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimTest"
+							],
+							"method" : "testCorrectInstance",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimTest"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimTest"
+							}
+						],
+						"name" : "setUp",
+						"collected" : {
+							"class" : "LLMAPIFimTest",
+							"package" : "LLM-API-Tests",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimTest"
+							],
+							"method" : "setUp",
+							"confidenceScore" : 1.0
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChatTest",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatTest"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatTest"
+							}
+						],
+						"name" : "testCheckModelExist",
+						"collected" : {
+							"class" : "LLMAPIChatTest",
+							"package" : "LLM-API-Tests",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatTest"
+							],
+							"method" : "testCheckModelExist",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatTest"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatTest"
+							}
+						],
+						"name" : "testCorrectInstance",
+						"collected" : {
+							"class" : "LLMAPIChatTest",
+							"package" : "LLM-API-Tests",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatTest"
+							],
+							"method" : "testCorrectInstance",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatTest"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatTest"
+							}
+						],
+						"name" : "setUp",
+						"collected" : {
+							"class" : "LLMAPIChatTest",
+							"package" : "LLM-API-Tests",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatTest"
+							],
+							"method" : "setUp",
+							"confidenceScore" : 1.0
+						}
+					}
+				]
+			}
+		],
+		"package" : "LLM-API-Tests"
+	},
+	{
+		"classes" : [
+			{
+				"class" : "LLMAPI",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "content:",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "content:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "port:",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "port:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "client:",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "client:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "https:",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "https:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "initialize",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "initialize",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "host:",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "host:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "apiKey:",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "apiKey:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "prepareRequest",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "prepareRequest",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "path",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "path",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI"
+							}
+						],
+						"name" : "performRequest",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPI"
+							],
+							"method" : "performRequest",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpAbstractAdapter"
+							}
+						],
+						"name" : "payload",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpAbstractAdapter"
+							],
+							"method" : "payload",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "SpAbstractAdapter"
+							}
+						],
+						"name" : "content",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"SpAbstractAdapter"
+							],
+							"method" : "content",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "ZnClient"
+							}
+						],
+						"name" : "client",
+						"collected" : {
+							"class" : "LLMAPI",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"ZnClient"
+							],
+							"method" : "client",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMPayloadNoModelError",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "String"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "String"
+							}
+						],
+						"name" : "defaultDescription",
+						"collected" : {
+							"class" : "LLMPayloadNoModelError",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"String"
+							],
+							"method" : "defaultDescription",
+							"confidenceScore" : 1.0
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChat",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "String"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "String"
+							}
+						],
+						"name" : "path",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"String"
+							],
+							"method" : "path",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload class"
+							},
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChatObjectPayload class"
+							}
+						],
+						"name" : "payloadClass",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload class"
+							],
+							"method" : "payloadClass",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "content:",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "content:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "port:",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "port:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "initialize",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "initialize",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "https:",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "https:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "host:",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "host:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "apiKey:",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "apiKey:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "payload",
+						"collected" : {
+							"class" : "LLMAPIChat",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "payload",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIFim",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "String"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "String"
+							}
+						],
+						"name" : "path",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"String"
+							],
+							"method" : "path",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload class"
+							},
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFimObjectPayload class"
+							}
+						],
+						"name" : "payloadClass",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload class"
+							],
+							"method" : "payloadClass",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "content:",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "content:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "port:",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "port:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "initialize",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "initialize",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "https:",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "https:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "host:",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "host:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "apiKey:",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "apiKey:",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "payload",
+						"collected" : {
+							"class" : "LLMAPIFim",
+							"package" : "LLM-API",
+							"sources" : [
+								"Offline Test Profiling"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "payload",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChatObjectPayload",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "safe_prompt:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "safe_prompt:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "max_tokens:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "max_tokens:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "response_format:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "response_format:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "model:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "model:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "presence_penalty:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "presence_penalty:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "frequence_penalty:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "frequence_penalty:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "random_seed:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "random_seed:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "temperature:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "temperature:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "top_p:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "top_p:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "stop:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "stop:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "tools:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "tools:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "messages:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "messages:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "n:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "n:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "stream:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "stream:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectPayload"
+							}
+						],
+						"name" : "tool_choice:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectPayload"
+							],
+							"method" : "tool_choice:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Dictionary"
+							}
+						],
+						"name" : "asJsonableObject",
+						"collected" : {
+							"class" : "LLMAPIChatObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Dictionary"
+							],
+							"method" : "asJsonableObject",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIFimObjectPayload",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "max_tokens:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "max_tokens:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "prompt:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "prompt:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "top_p:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "top_p:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "model:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "model:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "min_tokenss:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "min_tokenss:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "temperature:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "temperature:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "suffix:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "suffix:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "random_seed:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "random_seed:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "stop:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "stop:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFimObjectPayload"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFimObjectPayload"
+							}
+						],
+						"name" : "stream:",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFimObjectPayload"
+							],
+							"method" : "stream:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Dictionary"
+							}
+						],
+						"name" : "asJsonableObject",
+						"collected" : {
+							"class" : "LLMAPIFimObjectPayload",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Dictionary"
+							],
+							"method" : "asJsonableObject",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChatObjectTool",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "description:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "description:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "initialize",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "initialize",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "parameters:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "parameters:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "receiver:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "receiver:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "strict:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "strict:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "symbol:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "symbol:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectTool"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectTool"
+							}
+						],
+						"name" : "name:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectTool"
+							],
+							"method" : "name:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Symbol"
+							}
+						],
+						"name" : "symbol",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Symbol"
+							],
+							"method" : "symbol",
+							"confidenceScore" : 0.75
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Dictionary"
+							}
+						],
+						"name" : "asJsonableObject",
+						"collected" : {
+							"class" : "LLMAPIChatObjectTool",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Dictionary"
+							],
+							"method" : "asJsonableObject",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChatObjectMessage",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectMessage"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectMessage"
+							}
+						],
+						"name" : "content:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectMessage"
+							],
+							"method" : "content:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectMessage"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectMessage"
+							}
+						],
+						"name" : "role:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectMessage"
+							],
+							"method" : "role:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectMessage"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectMessage"
+							}
+						],
+						"name" : "tool_calls:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectMessage"
+							],
+							"method" : "tool_calls:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectMessage"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectMessage"
+							}
+						],
+						"name" : "tool_call_id:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectMessage"
+							],
+							"method" : "tool_call_id:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectMessage"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectMessage"
+							}
+						],
+						"name" : "name:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectMessage"
+							],
+							"method" : "name:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Dictionary"
+							}
+						],
+						"name" : "asJsonableObject",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Dictionary"
+							],
+							"method" : "asJsonableObject",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPI class",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI class"
+							}
+						],
+						"name" : "port:",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI class"
+							],
+							"method" : "port:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI class"
+							}
+						],
+						"name" : "llmSettingOn:",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI class"
+							],
+							"method" : "llmSettingOn:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChat"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChat"
+							},
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIChat"
+							}
+						],
+						"name" : "chat",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChat"
+							],
+							"method" : "chat",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI class"
+							}
+						],
+						"name" : "https:",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI class"
+							],
+							"method" : "https:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIFim"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIFim"
+							},
+							{
+								"source" : "Offline Test Profiling",
+								"type" : "LLMAPIFim"
+							}
+						],
+						"name" : "fim",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIFim"
+							],
+							"method" : "fim",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI class"
+							}
+						],
+						"name" : "host:",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI class"
+							],
+							"method" : "host:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPI class"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPI class"
+							}
+						],
+						"name" : "apiKey:",
+						"collected" : {
+							"class" : "LLMAPI class",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPI class"
+							],
+							"method" : "apiKey:",
+							"confidenceScore" : 1.0
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChatObjectToolCall",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectToolCall"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectToolCall"
+							}
+						],
+						"name" : "index:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectToolCall",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectToolCall"
+							],
+							"method" : "index:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectToolCall"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectToolCall"
+							}
+						],
+						"name" : "id:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectToolCall",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectToolCall"
+							],
+							"method" : "id:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectToolCall"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectToolCall"
+							}
+						],
+						"name" : "type:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectToolCall",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectToolCall"
+							],
+							"method" : "type:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "TypeMeConfident",
+								"type" : "LLMAPIChatObjectToolCall"
+							},
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectToolCall"
+							}
+						],
+						"name" : "function:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectToolCall",
+							"package" : "LLM-API",
+							"sources" : [
+								"TypeMeConfident"
+							],
+							"confidenceLevel" : "High",
+							"types" : [
+								"LLMAPIChatObjectToolCall"
+							],
+							"method" : "function:",
+							"confidenceScore" : 1.0
+						}
+					},
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "Dictionary"
+							}
+						],
+						"name" : "asJsonableObject",
+						"collected" : {
+							"class" : "LLMAPIChatObjectToolCall",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"Dictionary"
+							],
+							"method" : "asJsonableObject",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			},
+			{
+				"class" : "LLMAPIChatObjectMessage class",
+				"variables" : [ ],
+				"methods" : [
+					{
+						"returnTypes" : [
+							{
+								"source" : "Type Info Tools",
+								"type" : "LLMAPIChatObjectMessage"
+							}
+						],
+						"name" : "fromMessage:",
+						"collected" : {
+							"class" : "LLMAPIChatObjectMessage class",
+							"package" : "LLM-API",
+							"sources" : [
+								"Type Info Tools"
+							],
+							"confidenceLevel" : "Medium",
+							"types" : [
+								"LLMAPIChatObjectMessage"
+							],
+							"method" : "fromMessage:",
+							"confidenceScore" : 0.75
+						}
+					}
+				]
+			}
+		],
+		"package" : "LLM-API"
+	}
+]
